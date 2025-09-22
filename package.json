@@ -1,0 +1,1 @@
+{"name": "ivr-acs-func", "version": "1.0.0", "description": "Azure Functions - ACS Call Automation IVR", "main": "index.js", "license": "MIT", "engines": {"node": ">=18"}, "dependencies": {"@azure/communication-call-automation": "^1.4.0"}}
